@@ -58,7 +58,7 @@
   flex-direction: column;
   justify-content: start;
   font-style: normal;
-  width: 240px; 
+  width: 240px;
   font-size: 18px;
   font-weight: 400;
   line-height: 1.35;
@@ -126,7 +126,7 @@
 .letter-spacing-extended {
   letter-spacing: 60px;
 }
-  
+
 .cover__description {
   position: relative;
   z-index: 2;
@@ -239,7 +239,7 @@
 }
 
 .about {
-  padding: 182px 50px; 
+  padding: 182px 50px;
 }
 
 .about__column {
@@ -296,7 +296,7 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  padding: 0 50px 90px; 
+  padding: 0 50px 90px;
 }
 
 .footer__menu {
